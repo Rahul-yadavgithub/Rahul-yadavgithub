@@ -18,7 +18,18 @@ I am a Full Stack Developer and Machine Learning enthusiast currently pursuing m
 ---
 ## Featured Projects ⭐
 - **TPO Website** — A placement/college TPO portal focused on placement workflows, notifications, and resource management.  
-  GitHub: https://github.com/Rahul-yadavgithub • Live/Portfolio: https://www.varanasisntours.com/
+  ## Featured Projects ⭐
+
+### 🎓 TPO Website — College Placement Portal
+A full-stack placement management system with two separate portals:
+
+| Portal | Description | Live Link |
+|--------|-------------|-----------|
+| 🏫 **TPO Dashboard** | Admin panel for placement officers — manage drives, notifications & students | [View Live](https://job-finder-delta-drab.vercel.app) |
+| 👨‍🎓 **Student Portal** | Student-facing interface — apply for drives, track status & get updates | [View Live](https://job-finder-g7pi.vercel.app) |
+
+**Tech Stack:** TypeScript · React · Next.js · Node.js  
+**GitHub:** [Rahul-yadavgithub/TPO-Website](https://github.com/Rahul-yadavgithub/TPO-Website)
 - **Photography** — A portfolio site showcasing photography projects and galleries, optimized for responsive display and fast loading.  
   GitHub: https://github.com/Rahul-yadavgithub
 - **Tour & Travellers** — A travel/tour management project with booking flows, listings, and admin dashboard features.  
