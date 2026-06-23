@@ -17,25 +17,35 @@ I am a Full Stack Developer and Machine Learning enthusiast currently pursuing m
 - Frameworks & tools: React, Next.js, Node.js, modern JavaScript/TypeScript toolchain
 ---
 ## Featured Projects ⭐
-- **TPO Website** — A placement/college TPO portal focused on placement workflows, notifications, and resource management.  
-  ## Featured Projects ⭐
-
 ### 🎓 TPO Website — College Placement Portal
 A full-stack placement management system with two separate portals:
 
 | Portal | Description | Live Link |
 |--------|-------------|-----------|
-| 🏫 **TPO Dashboard** | Admin panel for placement officers — manage drives, notifications & students | [View Live](https://job-finder-delta-drab.vercel.app) |
-| 👨‍🎓 **Student Portal** | Student-facing interface — apply for drives, track status & get updates | [View Live](https://job-finder-g7pi.vercel.app) |
+| 🏫 **TPO Dashboard** | Admin panel for placement officers — manage drives, notifications & students | [View Live](https://job-finder-g7pi.vercel.app/login) |
+| 👨‍🎓 **Student Portal** | Student-facing interface — apply for drives, track status & get updates | [View Live](https://job-finder-delta-drab.vercel.app) |
 
 **Tech Stack:** TypeScript · React · Next.js · Node.js  
 **GitHub:** [Rahul-yadavgithub/TPO-Website](https://github.com/Rahul-yadavgithub/TPO-Website)
-- **Photography** — A portfolio site showcasing photography projects and galleries, optimized for responsive display and fast loading.  
-  GitHub: https://github.com/Rahul-yadavgithub
-- **Tour & Travellers** — A travel/tour management project with booking flows, listings, and admin dashboard features.  
-  GitHub: https://github.com/Rahul-yadavgithub • Live: https://www.varanasisntours.com/
-(Links above point to my GitHub profile and portfolio — replace with direct repo URLs if preferred.)
----
+-### 📸 Photography — Portfolio & Gallery Website
+A responsive photography portfolio showcasing galleries with fast loading and clean UI.
+
+| | |
+|---|---|
+| 🌐 **Live Website** | [View Portfolio](https://photography-alpha-gold.vercel.app) |
+| 💻 **GitHub** | [Rahul-yadavgithub/photography](https://github.com/Rahul-yadavgithub/photography) |
+
+**Tech Stack:** JavaScript · React · TailwindCSS
+
+### ✈️ Tour & Travellers — Travel Management Platform
+A travel and tour management platform with booking flows, destination listings, and a full admin dashboard.
+
+| | |
+|---|---|
+| 🌐 **Live Website** | [View Live](https://www.varanasisntours.com/) |
+| 💻 **GitHub** | [Rahul-yadavgithub/tour-and-travels](https://github.com/Rahul-yadavgithub/tour-and-travels) |
+
+**Tech Stack:** JavaScript · Node.js · Express
 ## GitHub Stats 📈
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-yadavgithub&show_icons=true&count_private=true&theme=github_dark)
 <br>
