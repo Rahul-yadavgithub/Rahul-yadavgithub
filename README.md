@@ -1,10 +1,25 @@
-# Rahul Yadav 👋
-> Full Stack Developer • Machine Learning Enthusiast  
-> "I build practical solutions to real‑world problems — turning ideas into reliable, user‑focused applications."
+# Hey, I'm Rahul Yadav 👋
+
+> Full Stack Developer • Machine Learning Enthusiast
+
+*"I don't just write code — I build experiences that people actually enjoy using."*
+
 ---
-## About Me
-I am a Full Stack Developer and Machine Learning enthusiast currently pursuing my studies. I enjoy building end-to-end applications that solve everyday problems, and I focus on clean, maintainable code and scalable architecture. Located in Hamirpur, I am actively seeking opportunities in open source and freelance projects.
----
+
+## About Me 🙋‍♂️
+
+I'm a B.Tech student from Bahraich who got obsessed with building things 
+on the internet — and building things I actually care about.
+
+I love working on end-to-end projects — from designing clean UIs to 
+architecting backends that scale. For me, good code isn't just code that 
+works, it's code that others can read, maintain, and build on.
+
+Right now I'm diving deeper into system design and backend optimization,
+and I'm actively looking for open source projects and freelance work where
+I can contribute meaningfully.
+
+When I'm not coding, I'm probably hanging out with people who make me laugh. 😄
 ## Skills & Tech Stack 🛠️
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&style=for-the-badge) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&style=for-the-badge) 
@@ -65,7 +80,8 @@ A travel and tour management platform with booking flows, destination listings, 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-4CAF50?logo=google-chrome&style=for-the-badge)](https://www.varanasisntours.com/)  
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=for-the-badge)](mailto:rahulyadavjnvshravasti669@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-@Rahul--yadavgithub-181717?logo=github&style=for-the-badge)](https://github.com/Rahul-yadavgithub)
-Location: Hamirpur • Fun fact: I enjoy spending time with people who are funny and easy to understand 😄
+Location: Hamirpur •
+Fun fact: I enjoy spending time with people who are funny and easy to understand 😄
 ---
 Thank you for visiting my profile — I build with purpose, learn continuously, and welcome conversations about impactful projects.
 
