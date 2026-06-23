@@ -27,7 +27,7 @@ A full-stack placement management system with two separate portals:
 
 **Tech Stack:** TypeScript · React · Next.js · Node.js  
 **GitHub:** [Rahul-yadavgithub/TPO-Website](https://github.com/Rahul-yadavgithub/TPO-Website)
--### 📸 Photography — Portfolio & Gallery Website
+### 📸 Photography — Portfolio & Gallery Website
 A responsive photography portfolio showcasing galleries with fast loading and clean UI.
 
 | | |
