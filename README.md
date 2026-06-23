@@ -81,7 +81,6 @@ A travel and tour management platform with booking flows, destination listings, 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=for-the-badge)](mailto:rahulyadavjnvshravasti669@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-@Rahul--yadavgithub-181717?logo=github&style=for-the-badge)](https://github.com/Rahul-yadavgithub)
 Location: Hamirpur •
-Fun fact: I enjoy spending time with people who are funny and easy to understand 😄
 ---
 Thank you for visiting my profile — I build with purpose, learn continuously, and welcome conversations about impactful projects.
 
